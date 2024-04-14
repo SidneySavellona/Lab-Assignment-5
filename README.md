@@ -1,6 +1,7 @@
 # Lab-Assignment-5
 
 You are required to present a department report that accesses csv files. You must put the data on the domain composition of the objects.
+
 ![Screenshot 2024-04-14 145228](https://github.com/SidneySavellona/Lab-Assignment-5/assets/153743474/1dc40c49-5407-485b-9f2e-c5f75073cc9d)
 
 ***dep.csv*** contains the following
