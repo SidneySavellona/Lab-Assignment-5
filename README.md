@@ -42,7 +42,7 @@ You need to create objects that will handle the retrieval of the csv files to co
 ![image](https://github.com/SidneySavellona/Lab-Assignment-5/assets/153743474/0ee5e44a-b726-4e6c-ac1e-3f29204f4791)
 
 
-#This will be the sample generated report:
+# This will be the sample generated report:
 
 Department code: IT
 
